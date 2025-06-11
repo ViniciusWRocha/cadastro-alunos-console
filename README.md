@@ -23,10 +23,10 @@ Os dados são armazenados em memória enquanto o programa está em execução.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/ViniciusWRocha/cadastro-alunos-console.git
 
 # Acesse a pasta do projeto
-cd seu-repositorio
+cd sua-pasta
 
 # Compile o projeto
 dotnet build
