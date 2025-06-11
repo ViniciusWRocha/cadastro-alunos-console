@@ -38,8 +38,11 @@ dotnet run
 
 ```
 
+---
+
 ## 🎮 Exemplo de uso
 
+```bash
 ===== Sistema Escolar =====
 
 1. Cadastrar aluno
@@ -52,4 +55,4 @@ dotnet run
 
 0. Sair
 Escolha uma opção:
-
+````
