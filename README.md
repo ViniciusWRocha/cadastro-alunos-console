@@ -1,7 +1,6 @@
-# Sistema de Gerenciamento de Alunos - Console App (.NET 8)
+# Sistema de Gerenciamento de Alunos - Console App
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Este é um aplicativo de console desenvolvido em **C# com .NET 8**, que simula o sistema de gerenciamento de uma escola. O programa permite:
 
@@ -37,7 +36,7 @@ dotnet build
 # Execute o programa
 dotnet run
 
----
+```
 
 ## 🎮 Exemplo de uso
 
@@ -53,3 +52,4 @@ dotnet run
 
 0. Sair
 Escolha uma opção:
+
